@@ -1,10 +1,12 @@
 ### Hi there 👋
 #### I'm Rustam, a QA Engineer 
-```I have experience in:
+```
+I have experience in:
 • Writing test documentation
 • Writing simple SQL queries
 • Testing REST API (Postman, Swagger)
-• Applying test design techniques at work```
+• Applying test design techniques at work
+```
 
 <!--
 **rustamd74/rustamd74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
