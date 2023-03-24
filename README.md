@@ -1,9 +1,9 @@
 ![grab-landing-page](https://github.com/rustamd74/rustamd74/blob/main/c69fa6e9d0af971ba052817ae70c4261.gif)
 
 
-### Hi there 👋
+## Hi there 👋
 
-#### I'm Rustam, a QA Engineer
+## I'm Rustam, a QA Engineer
 
 ```
 I have experience in:
