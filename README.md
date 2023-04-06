@@ -72,13 +72,11 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rustamd74&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rustamd74&theme=tokyonight)
 
-## Дипломный проект
+## Graduation project
 
-Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">
+Implemented while studying at the School of Test Automation Engineers <a target="_blank" href="https://qa.guru">
 qa.guru</a>
 
-## Тестирование UI
+## [Testing UI]
 
-:link: Тестовый проект: <a target="_blank" href= ""></a></br></br>
-
-### [Testing automated API and combined UI with API](https://github.com/rustamd74/qa_guru_diplom_api#readme) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
+### [Testing API and combined UI with API](https://github.com/rustamd74/qa_guru_diplom_api#readme) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
