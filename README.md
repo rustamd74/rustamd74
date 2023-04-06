@@ -77,6 +77,6 @@ Here are some ideas to get you started:
 Implemented while studying at the School of Test Automation Engineers <a target="_blank" href="https://qa.guru">
 qa.guru</a>
 
-## [Testing UI]
+### [Testing UI](https://github.com/rustamd74/qa_guru_diplom_api#readme) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
 ### [Testing API and combined UI with API](https://github.com/rustamd74/qa_guru_diplom_api#readme) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
