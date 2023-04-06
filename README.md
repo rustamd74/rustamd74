@@ -81,4 +81,4 @@ qa.guru</a>
 
 :link: Тестовый проект: <a target="_blank" href= ""></a></br></br>
 
-### [Testing automated API and combined UI with API]([https://github.com/widowblack11/qa_guru_diplom_for_api](https://github.com/rustamd74/qa_guru_diplom_api#readme)) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
+### [Testing automated API and combined UI with API](https://github.com/rustamd74/qa_guru_diplom_api#readme) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
