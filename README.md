@@ -4,6 +4,7 @@
 ### Hi there 👋
 
 #### I'm Rustam, a QA Engineer
+##### I have been working as a QA engineer for 2 years
 
 ```
 I have experience in:
