@@ -1,18 +1,12 @@
 ![grab-landing-page](https://github.com/rustamd74/rustamd74/blob/main/c69fa6e9d0af971ba052817ae70c4261.gif)
 
 
-## Hi there 👋
+### Hi there 👋
 
-## I'm Rustam, a QA Engineer
+#### I'm Rustam, a QA Engineer
 
 ```
 I have experience in:
-• Python test automation
-• Integration of autotests with allure testops
-• Maintaining documentation in jira
-• Continuous Test Integration in Jenkins
-• Run tests remotely in the cloud
-• Working with git repositories
 • Writing test documentation
 • Writing simple SQL queries
 • Testing REST API (Postman, Swagger)
@@ -89,12 +83,16 @@ Here are some ideas to get you started:
 #### Additional Education:
 
 <table width="100%" border='0'>
-   <tr><td width="20%" valign="bottom"><img src="images/social_networks/app_brewery.png"></td><td valign="middle">Programming school Python <a target="_blank" href="https://appbrewery.com/">App Brewery</a>.</td></tr>
+   <tr><td width="20%" valign="bottom"><img src="images/social_networks/gb.png"></td><td 
+valign="middle">Geek Brains <a target="_blank" href="https://gb.ru/courses/testing">Geek Brains</a>.</td></tr>
 
-   <tr><td width="30%" valign="bottom"><img src="images/social_networks/skillfactory.png"></td><td valign="middle">Programming school (ML and DL) <a target="_blank" href="https://skillfactory.ru/data-scientist-pro">Skillfactory</a>.</td></tr>
+   <tr><td width="30%" valign="bottom"><img src="images/social_networks/synctoskill.png"></td><td 
+valign="middle">qa.synctoskill <a target="_blank" href="https://qa.synctoskill.com/course">Sync to skill</a>.</td></tr>
    </tr>
 
-   <tr><td width="30%" valign="bottom"><img src="images/social_networks/shultais.png"></td><td valign="middle">Programming school Python <a target="_blank" href="https://shultais.education/lms/courses">shultais school</a>.</td></tr>
+   <tr><td width="30%" valign="bottom"><img src="images/social_networks/portnov_logo.png"></td><td 
+valign="middle">Portnov Computer 
+School <a target="_blank" href="https://www.portnov.com">portnov.com</a>.</td></tr>
 
    <tr><td width="30%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
