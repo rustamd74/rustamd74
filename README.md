@@ -81,4 +81,4 @@ qa.guru</a>
 
 ### [Testing API and combined UI with API](https://github.com/rustamd74/qa_guru_diplom_api#readme) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
-### [Testing mobile](https://github.com/rustamd74/qa_guru_diplom_mobile/blob/main/README.md)<img width="3%" title="GitHub" src="images/logo_stacks/github.png">
+### [Testing mobile](https://github.com/rustamd74/qa_guru_diplom_mobile/blob/mac_or_linux/README.md)<img width="3%" title="GitHub" src="images/logo_stacks/github.png">
