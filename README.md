@@ -3,8 +3,8 @@
 
 ### Hi there 👋
 
-#### I'm Rustam, a QA Engineer
-##### I have been working as a QA engineer for 2 years
+#### I am Rustam. I have been working as a quality assurance engineer for about 2 years
+
 
 ```
 I have experience in:
@@ -19,6 +19,7 @@ I have experience in:
 • Testing REST API (Postman, Swagger)
 • Applying test design techniques at work
 ```
+
 ### Contacts:
 
 <p>
