@@ -19,6 +19,14 @@ I have experience in:
 • Testing REST API (Postman, Swagger)
 • Applying test design techniques at work
 ```
+### Contacts:
+
+<p>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://telegram.me/rustamd74"><img width="32px" alt="Telegram" title="Telegram" src="images/social_networks/tg.png"/></a>
+  &#8287;
+  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=CllgCHrgDRrLqCrqLPMWXZPMFqtTVzcKMlhZHxbjShwtkwfdFNZqRHJWjWwLdNzZkxjtRTZlJxq"><img width="37px" alt="Write me Email" title="Gmail" src="images/social_networks/gmail.png"/></a>
+</p>
 
 <!--
 **rustamd74/rustamd74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
