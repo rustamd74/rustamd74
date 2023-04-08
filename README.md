@@ -8,6 +8,12 @@
 
 ```
 I have experience in:
+• Python test automation
+• Integration of autotests with Allure TestOps
+• Maintaining documentation in Jira
+• Continuous Test Integration in Jenkins
+• Run tests remotely in the cloud
+• Working with git repositories
 • Writing test documentation
 • Writing simple SQL queries
 • Testing REST API (Postman, Swagger)
