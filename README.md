@@ -7,6 +7,12 @@
 
 ```
 I have experience in:
+• Python test automation
+• Integration of autotests with allure testops
+• Maintaining documentation in jira
+• Continuous Test Integration in Jenkins
+• Run tests remotely in the cloud
+• Working with git repositories
 • Writing test documentation
 • Writing simple SQL queries
 • Testing REST API (Postman, Swagger)
@@ -71,6 +77,28 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rustamd74&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rustamd74&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rustamd74&theme=tokyonight)
+
+## :man_student:Education
+
+<table width="100%" border='0'>
+   <tr> 
+    <td width="30%" valign="bottom"><img src="images/social_networks/univer_logo.jpg"></td><td valign="middle">National Research Mordovian State University named after N.P. Ogarev. Direction - Mechanic technician.</td></tr>
+  </table>
+  </br>
+
+#### Additional Education:
+
+<table width="100%" border='0'>
+   <tr><td width="20%" valign="bottom"><img src="images/social_networks/app_brewery.png"></td><td valign="middle">Programming school Python <a target="_blank" href="https://appbrewery.com/">App Brewery</a>.</td></tr>
+
+   <tr><td width="30%" valign="bottom"><img src="images/social_networks/skillfactory.png"></td><td valign="middle">Programming school (ML and DL) <a target="_blank" href="https://skillfactory.ru/data-scientist-pro">Skillfactory</a>.</td></tr>
+   </tr>
+
+   <tr><td width="30%" valign="bottom"><img src="images/social_networks/shultais.png"></td><td valign="middle">Programming school Python <a target="_blank" href="https://shultais.education/lms/courses">shultais school</a>.</td></tr>
+
+   <tr><td width="30%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   </tr>
+  </table>
 
 ## Graduation project
 
