@@ -73,14 +73,19 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rustamd74&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rustamd74&theme=tokyonight)
 
-## :man_student:Education
+[//]: # (## :man_student:Education)
 
-<table width="100%" border='0'>
-   <tr> 
-    <td width="30%" valign="bottom"><img src="images/social_networks/univer_logo.jpg"></td><td valign="middle">National Research Mordovian State University named after N.P. Ogarev. Direction - Mechanic technician.</td></tr>
-  </table>
-  </br>
+[//]: # (<table width="100%" border='0'>)
 
+[//]: # (   <tr> )
+
+[//]: # (    <td width="30%" valign="bottom"><img src="images/social_networks/univer_logo.jpg"></td><td valign="middle">National Research Mordovian State University named after N.P. Ogarev. Direction - Mechanic technician.</td></tr>)
+
+[//]: # (  </table>)
+
+[//]: # (  </br>)
+
+[//]: # ()
 #### Additional Education:
 
 <table width="100%" border='0'>
@@ -91,9 +96,8 @@ valign="middle">Geek Brains <a target="_blank" href="https://gb.ru/courses/testi
 valign="middle">qa.synctoskill <a target="_blank" href="https://qa.synctoskill.com/course">Sync to skill</a>.</td></tr>
    </tr>
 
-   <tr><td width="30%" valign="bottom"><img src="images/social_networks/portnov_logo.png"></td><td 
-valign="middle">Portnov Computer 
-School <a target="_blank" href="https://www.portnov.com">portnov.com</a>.</td></tr>
+   <tr><td width="30%" valign="bottom"><img src="images/social_networks/portnov_logo.png"><img src="images/social_networks/portnov_c_s.png"></td><td 
+valign="middle">Portnov Computer School <a target="_blank" href="https://www.portnov.com">portnov.com</a>.</td></tr>
 
    <tr><td width="30%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
