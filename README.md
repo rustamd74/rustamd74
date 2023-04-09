@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-#### I am Rustam. I have been working as a quality assurance engineer for about 2 years
+#### I am Rustam. I have been working as a QA engineer for about 2 years
 
 
 ```
@@ -88,19 +88,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rustamd74&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rustamd74&theme=tokyonight)
 
-[//]: # (## :man_student:Education)
 
-[//]: # (<table width="100%" border='0'>)
-
-[//]: # (   <tr> )
-
-[//]: # (    <td width="30%" valign="bottom"><img src="images/social_networks/univer_logo.jpg"></td><td valign="middle">National Research Mordovian State University named after N.P. Ogarev. Direction - Mechanic technician.</td></tr>)
-
-[//]: # (  </table>)
-
-[//]: # (  </br>)
-
-[//]: # ()
 #### Additional Education:
 
 <table width="100%" border='0'>
