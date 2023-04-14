@@ -92,9 +92,6 @@ Here are some ideas to get you started:
 #### Additional Education:
 
 <table width="100%" border='0'>
-   <tr><td width="20%" valign="bottom"><img src="images/social_networks/gb.png"></td><td 
-valign="middle">Geek Brains <a target="_blank" href="https://gb.ru/courses/testing">Geek Brains</a>.</td></tr>
-
    <tr><td width="30%" valign="bottom"><img src="images/social_networks/synctoskill.png"></td><td 
 valign="middle">qa.synctoskill <a target="_blank" href="https://qa.synctoskill.com/course">Sync to skill</a>.</td></tr>
    </tr>
