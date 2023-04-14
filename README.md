@@ -96,10 +96,10 @@ Here are some ideas to get you started:
 valign="middle">qa.synctoskill <a target="_blank" href="https://qa.synctoskill.com/course">Sync to skill</a>.</td></tr>
    </tr>
 
-   <tr><td width="30%" valign="bottom"><img src="images/social_networks/portnov_logo.png"><img src="images/social_networks/portnov_c_s.png"></td><td 
+   <tr><td width="40%" valign="bottom"><img src="images/social_networks/portnov_logo.png"><img src="images/social_networks/portnov_c_s.png"></td><td 
 valign="middle">Portnov Computer School <a target="_blank" href="https://www.portnov.com">portnov.com</a>.</td></tr>
 
-   <tr><td width="30%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   <tr><td width="40%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
 
