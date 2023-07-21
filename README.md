@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 #### Additional Education:
 
-
+<table width="100%" border='0'>
    <tr><td width="40%" valign="bottom"><img src="images/social_networks/portnov_logo.png"><img src="images/social_networks/portnov_c_s.png"></td><td 
 valign="middle">Portnov Computer School <a target="_blank" href="https://www.portnov.com">portnov.com</a>.</td></tr>
 
